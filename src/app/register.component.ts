@@ -2,7 +2,7 @@ import { Component } from '@angular/core';
 import { FormGroup, FormControl } from '@angular/forms';
 @Component({
     selector: 'register-component',
-    templateUrl: 'register1.component.html'
+    templateUrl: 'register.component.html'
 })
 
 export class RegisterComponent{
